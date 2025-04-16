@@ -1,7 +1,6 @@
 # 🛡️ Log Monitoring System
 
-<img src="https://github.com/user-attachments/assets/56d98cd5-2414-4408-b588-3b6e53f696b2" alt="Log Monitoring" width="800">
-
+<img src="https://github.com/user-attachments/assets/56d98cd5-2414-4408-b588-3b6e53f696b2" width="600"/>
 ## 📌 Overview
 
 This project is a **Log Monitoring System** that reads logs from a file (`logs.txt`) and processes them using *Multi-threading* in Java. It is designed to efficiently handle large log files by utilizing multiple threads to improve performance.
