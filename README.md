@@ -1,6 +1,6 @@
 # 🛡️ Log Monitoring System
 
-<img src="https://github.com/user-attachments/assets/56d98cd5-2414-4408-b588-3b6e53f696b2" alt="Log Monitoring" width="800">
+<img src="https://github.com/MahaMotasem-attachments/assets/56d98cd5-2414-4408-b588-3b6e53f696b2" alt="Log Monitoring" width="800">
 
 ## 📌 Overview
 
